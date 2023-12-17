@@ -1,4 +1,4 @@
-This repository contains the relevant data and code to replicate my submission for the course PLSC536 "Applied Quantitative Research Design", which I took in fall semester of 2023. 
+This repository contains the relevant data and code to replicate my submission for the course PLSC 536 "Applied Quantitative Research Design", which I took in fall semester of 2023 at Yale University.
 
 # Data
 * Raw Data: Requested and accessed via cloud service from the German Institute for Economic Research, DIW Berlin. Not made available due to data privacy requirements.
